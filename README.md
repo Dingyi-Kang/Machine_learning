@@ -11,4 +11,5 @@
 - [Linear Regression](linearReg/)
   * [Intro to Linear Regression](basic/linearRegression.md)
   * [Minimize cost function -- gradient descrent](linearReg/gradientDescrent.md)
+  * [How to derive the Normal Equation](basic/deriveNormalEquation.md)
   
