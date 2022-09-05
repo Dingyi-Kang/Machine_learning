@@ -20,3 +20,18 @@ great tutorial: https://www.youtube.com/watch?v=sDv4f4s2SB8
 <img width="1482" alt="image" src="https://user-images.githubusercontent.com/81428296/188514288-82a7797e-3db9-4b0c-a6e8-a4b276572c25.png">
 <img width="1470" alt="image" src="https://user-images.githubusercontent.com/81428296/188514256-a24fd600-de4f-4a5f-b7e8-cb2fe0be8c52.png">
 <img width="688" alt="image" src="https://user-images.githubusercontent.com/81428296/188514306-9042fab9-d1c2-4439-bb93-ca5d8066df73.png">
+
+
+# lecture
+## gradient descent -- iterative solution
+<img width="1644" alt="image" src="https://user-images.githubusercontent.com/81428296/188514904-57c2599c-8c36-45d9-82a0-84e11f27a05d.png">
+<img width="1714" alt="image" src="https://user-images.githubusercontent.com/81428296/188514912-8a79ebd9-6653-48e8-b6e3-fa28bff2316b.png">
+<img width="2240" alt="image" src="https://user-images.githubusercontent.com/81428296/188514936-5947dc29-1c8c-4f99-919a-f4529f0261be.png">
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/81428296/188514956-900da217-a584-404e-9d1f-c0f1f29b41ea.png">
+<img width="1033" alt="image" src="https://user-images.githubusercontent.com/81428296/188514962-f739290d-0e83-4fd1-bbe4-a2bef226b9bd.png">
+<img width="1609" alt="image" src="https://user-images.githubusercontent.com/81428296/188514993-13f8af7f-89c5-43c6-bc22-f623bc1f110a.png">
+
+## non-iterative solution
+<img width="1557" alt="image" src="https://user-images.githubusercontent.com/81428296/188515117-781c3bd9-3b79-481b-8706-43611ba795d5.png">
+<img width="1130" alt="image" src="https://user-images.githubusercontent.com/81428296/188515214-e2ff9424-68ce-4eae-9e2a-d765e27a0efc.png">
+
