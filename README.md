@@ -6,4 +6,5 @@
   * [Choosing parameter -- cross validation](basic/crossValidation.md)
   * [Supervised learning and upsupervised learning](basic/supervisedLearningUnsupervisedLearning.md)
   * [Linear algebra basic](basic/linearAlgebra.md)
-  * [Classifier](basic/classifier.md)
+  * [Linear Classifier](basic/classifier.md)
+  * [How to get matrix inverse] (basic/inverseMatrix)
