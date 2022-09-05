@@ -18,3 +18,9 @@
 
 ## while testing set is only used to know how accurate your model is. You cannot use trainning set to measure accuracy/performance since your model might have memorized some training data. Also, you cannot use validation set since you choose the model based on its performance on validation data which creates model bias. You cannot know if the chanaging parameter in this chosed model is the right move or the model just perform better in the validation set. If the performance on validation set is way different the actual performance on testing set, you should start over from scratch.     
 <img width="1269" alt="image" src="https://user-images.githubusercontent.com/81428296/188355856-4d346035-6c5f-4b70-8f16-f05f5299fecd.png">
+
+# Features are important. Poor features make learning difficult
+<img width="1746" alt="image" src="https://user-images.githubusercontent.com/81428296/188363065-0ff87020-8d15-4157-9a00-50f210877bfd.png">
+
+# Generalization and overfitting
+<img width="1746" alt="image" src="https://user-images.githubusercontent.com/81428296/188363132-7094a4c4-5084-47be-9100-30d8fde6863e.png">
