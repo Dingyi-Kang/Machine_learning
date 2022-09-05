@@ -8,3 +8,4 @@
   * [Linear algebra basic](basic/linearAlgebra.md)
   * [Linear Classifier](basic/classifier.md)
   * [How to get matrix inverse] (basic/inverseMatrix)
+  * [Linear Regression](basic/linearRegression.md)
