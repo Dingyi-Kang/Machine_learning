@@ -13,4 +13,5 @@
   * [Minimize cost function -- gradient descrent](linearReg/gradientDescrent.md)
   * [How to derive the Normal Equation](basic/deriveNormalEquation.md)
   * [Matrix calculus and Normal Equation](basic/matrixCalculus.md)
+  * [Polynominal and basis functions](linearReg/basisFunctions.md)
   
