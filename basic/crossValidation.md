@@ -1,7 +1,7 @@
 # There are two types of cross validation -- leave one out cross validation and k-fold cross validation
 
 ## leave one (sample) out cross vaidation
-### however, it is suitable for big dataset
+### however, it is not suitable for big dataset
 <img width="1262" alt="image" src="https://user-images.githubusercontent.com/81428296/188357900-b4de667b-4a21-4c21-92de-458a588f5622.png">
 <img width="1244" alt="image" src="https://user-images.githubusercontent.com/81428296/188357927-f20b7813-7819-4e61-9a3e-24f145ac8865.png">
 <img width="1575" alt="image" src="https://user-images.githubusercontent.com/81428296/188357949-06cce5bc-fb11-4d34-a220-0355fc381f1a.png">
