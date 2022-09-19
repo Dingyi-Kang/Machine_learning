@@ -15,4 +15,5 @@
   * [Matrix calculus and Normal Equation](basic/matrixCalculus.md)
   * [Polynominal and basis functions](linearReg/basisFunctions.md)
   * [Locally weighted Linear Regression](linearReg/localWeighted.md)
+  * [Regularized Least Squares](linearReg/regulaized.md)
   
