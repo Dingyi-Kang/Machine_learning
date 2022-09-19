@@ -20,3 +20,7 @@
 <img width="1081" alt="image" src="https://user-images.githubusercontent.com/81428296/190997805-586595c6-ef49-438c-ba87-b1b37ddb5997.png">
 <img width="1148" alt="image" src="https://user-images.githubusercontent.com/81428296/190997968-d0ad5086-3b6a-4b11-8e66-6fcd2daba8aa.png">
 <img width="1248" alt="image" src="https://user-images.githubusercontent.com/81428296/190998121-d761d032-7402-44ac-b0a0-6e801e4c886a.png">
+### not include bias since it doesn't add model complexity
+<img width="966" alt="image" src="https://user-images.githubusercontent.com/81428296/190998846-2d182314-9643-4804-8a97-a7f5a9e7d937.png">
+<img width="1004" alt="image" src="https://user-images.githubusercontent.com/81428296/190999228-2b2a45c0-d310-4aac-a9d2-a019808daf30.png">
+<img width="936" alt="image" src="https://user-images.githubusercontent.com/81428296/191000448-c5cac9fb-78d6-44c9-88de-542120ac04ff.png">
