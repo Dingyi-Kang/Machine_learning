@@ -16,5 +16,7 @@
   * [Polynominal and basis functions](linearReg/basisFunctions.md)
   * [Locally weighted Linear Regression](linearReg/localWeighted.md)
   * [Regularized Least Squares, aka. Regulaeized Linear Regression](linearReg/regulaized.md)
+  * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
+ 
   
