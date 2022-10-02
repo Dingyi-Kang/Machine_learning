@@ -20,4 +20,5 @@
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
 - [Neural Networks](neuralNetworks/)
   * [Chain rule](neuralNetworks/ChainRule.md)
+  * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
   
