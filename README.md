@@ -18,5 +18,6 @@
   * [Regularized Least Squares, aka. Regulaeized Linear Regression](linearReg/regulaized.md)
   * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
- 
+- [Neural Networks](neuralNetworks/)
+  * [Chain rule](neuralNetworks/ChainRule.md)
   
