@@ -9,3 +9,12 @@
 <img width="1346" alt="image" src="https://user-images.githubusercontent.com/81428296/195262219-7bf50c37-6b75-41f0-ad9e-1781b4bdca41.png">
 <img width="1273" alt="image" src="https://user-images.githubusercontent.com/81428296/195262538-a2337530-3cc1-4b9f-932d-569b630fa61b.png">
 <img width="1317" alt="image" src="https://user-images.githubusercontent.com/81428296/195263005-d1f3ae4c-9218-4dc7-b17a-097e20c7c729.png">
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/81428296/195274916-06af7476-45c8-41a6-81e6-5a92db2b72c2.png">
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/81428296/195274953-8dccf678-0d62-49ef-9a3f-7d86b242c529.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/81428296/195276410-b1f7bb7b-f60e-449b-ba65-0162bc487ec8.png">
+
+# tau bandwidth parameter -- 
+Effect of Bandwidth Parameter
+As we increase the bandwidth (tau), our algorithm will converge to linear regression. Because, on increasing the value of tau, weights will tend to 1, which can be observed from the formula.
+
+it controls how quickly the weight of a training example falls off with its distance the query point x and is called the \textbf{bandwidth} parameter. In this case, increasing τ increases the "width" of the bell shape curve and makes further points have more weight.
