@@ -22,4 +22,5 @@
   * [Chain rule](neuralNetworks/ChainRule.md)
   * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
   * [Backpropagation](neuralNetworks/backPropagation.md)
+- [Midterm Review](review.md)
   
