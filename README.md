@@ -23,4 +23,6 @@
   * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
   * [Backpropagation](neuralNetworks/backPropagation.md)
 - [Midterm Review](review.md)
+  * [Review 1](review.md)
+  * [Review 2](review2.md)
   
