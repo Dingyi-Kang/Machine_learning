@@ -25,4 +25,7 @@
 - [Midterm Review](review.md)
   * [Review 1](review.md)
   * [Review 2](review2.md)
-  
+- [Deep Learning](DL/)
+  * [RNN]
+  * [LSTM]
+  * [Transformer](DL/transformer.md)
