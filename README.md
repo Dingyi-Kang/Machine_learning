@@ -26,6 +26,10 @@
   * [Review 1](review.md)
   * [Review 2](review2.md)
 - [Deep Learning](DL/)
-  * [RNN]
-  * [LSTM]
+  
   * [Transformer](DL/transformer.md)
+- [RNN](RNN/)
+  * [Build RNN from scratch with numpy](RNN/scracthNumpy.md)
+  * [Build LSTM cell from scratch with pytorch]
+- [PyTorch](PyTorch/)
+  * [Excellent tutorials on write backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
