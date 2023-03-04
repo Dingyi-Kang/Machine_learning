@@ -30,6 +30,7 @@
   * [Transformer](DL/transformer.md)
 - [RNN](RNN/)
   * [Build RNN from scratch with numpy](RNN/scracthNumpy.md)
-  * [Build LSTM cell from scratch with pytorch]
+  * [Gradient Clipping](RNN/gradientClipping.md)
+  * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
 - [PyTorch](PyTorch/)
-  * [Excellent tutorials on write backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
+  * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
