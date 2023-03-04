@@ -30,6 +30,7 @@
   * [Transformer](DL/transformer.md)
 - [RNN](RNN/)
   * [Build RNN from scratch with numpy](RNN/scracthNumpy.md)
+  * [Build RNN from scratch with pyTorh nn and optim](RNN/scracthPytorch.md)
   * [Gradient Clipping](RNN/gradientClipping.md)
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
 - [PyTorch](PyTorch/)
