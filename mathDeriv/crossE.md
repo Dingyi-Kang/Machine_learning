@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=M59JElEPgIg&t=1s
 
 ### good papers about "Derivative of the Softmax Function and the Categorical Cross-Entropy Loss"
 https://towardsdatascience.com/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/81428296/225380460-418a037c-1e03-4f40-9c6c-e1246d9203d2.png">
 
 <img width="738" alt="image" src="https://user-images.githubusercontent.com/81428296/225216471-3ed88e61-662f-4383-ac89-8e5cd7883b18.png">
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/81428296/225216555-ad00396f-e634-4144-942b-ba1dfc8a791f.png">
