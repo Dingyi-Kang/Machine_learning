@@ -1,9 +1,10 @@
 Good tutorials: 
 
-### What is cross entropy
+### What is cross entropy https://www.youtube.com/watch?v=6ArSys5qHAU
 #### we choose softmax over argmax becuase softmax has good/simple derivative while argmax has comlicated ones
+<img width="1115" alt="image" src="https://user-images.githubusercontent.com/81428296/225217531-f8ee0f4e-d5f2-41ab-b01d-d5ebe2697a1e.png">
+
 #### reason: why choose cross-entropy over square residues when using softmax as output layer
-https://www.youtube.com/watch?v=6ArSys5qHAU
 <img width="1082" alt="image" src="https://user-images.githubusercontent.com/81428296/225201140-9cd75afd-e1a4-49aa-bf6c-41aa677f126a.png">
 
 
