@@ -18,6 +18,8 @@
   * [Regularized Least Squares, aka. Regulaeized Linear Regression](linearReg/regulaized.md)
   * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
+- [Derivative and backpropagation](mathDeriv/)
+  * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
 - [Neural Networks](neuralNetworks/)
   * [Chain rule](neuralNetworks/ChainRule.md)
   * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
