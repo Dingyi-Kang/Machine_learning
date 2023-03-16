@@ -37,3 +37,4 @@
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
 - [PyTorch](PyTorch/)
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
+  * [How to reshape or add additional dimention](PyTorch/reshape.md)
