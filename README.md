@@ -20,6 +20,7 @@
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
 - [Derivative and backpropagation](mathDeriv/)
   * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
+  * [Derivative of sigmoid and tanh](mathDeriv/tanh.md)
 - [Neural Networks](neuralNetworks/)
   * [Chain rule](neuralNetworks/ChainRule.md)
   * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
