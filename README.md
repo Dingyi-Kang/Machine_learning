@@ -40,3 +40,4 @@
   * [Transpose a matrix](PyTorch/transpose.md)
 - [Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
+  * [Advanced indexing in numpy](Numpy/indexing.md)
