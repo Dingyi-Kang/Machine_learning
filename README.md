@@ -28,7 +28,6 @@
   * [Review 1](review.md)
   * [Review 2](review2.md)
 - [Deep Learning](DL/)
-  
   * [Transformer](DL/transformer.md)
 - [RNN](RNN/)
   * [Build RNN from scratch with numpy](RNN/scracthNumpy.md)
@@ -38,5 +37,6 @@
 - [PyTorch](PyTorch/)
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
+  * [Transpose of a matrix](PyTorch/transpose.md)
 - [Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
