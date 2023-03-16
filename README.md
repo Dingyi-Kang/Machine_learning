@@ -37,6 +37,6 @@
 - [PyTorch](PyTorch/)
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
-  * [Transpose of a matrix](PyTorch/transpose.md)
+  * [Transpose a matrix](PyTorch/transpose.md)
 - [Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
