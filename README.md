@@ -39,6 +39,8 @@
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
   * [Transpose a matrix](PyTorch/transpose.md)
-- [Numpy](Numpy/)
+  * [Different way of matrix multiplication]
+- [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
+  * [Element-by-element multiplication (Hamilton product) is different from dot product](Numpy/hamilton.md)
