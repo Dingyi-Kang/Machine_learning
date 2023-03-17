@@ -40,7 +40,7 @@
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
   * [Transpose a matrix](PyTorch/transpose.md)
   * [Different ways of matrix multiplication](PyTorch/mul.md)
-  * [Hamilton product]
+  * [Hamilton product -- element by element product](PyTorch/hamilton.md)
   * [Outer product](PyTorch/outer.md)
 - [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
