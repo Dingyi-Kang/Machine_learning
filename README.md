@@ -39,8 +39,9 @@
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
   * [Transpose a matrix](PyTorch/transpose.md)
-  * [Different way of matrix multiplication](PyTorch/mul.md)
-  * [Hamilton product and outer product]
+  * [Different ways of matrix multiplication](PyTorch/mul.md)
+  * [Hamilton product]
+  * [Outer product](PyTorch/outer.md)
 - [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
