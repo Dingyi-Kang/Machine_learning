@@ -36,6 +36,7 @@
   * [Gradient Clipping](RNN/gradientClipping.md)
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
 - [PyTorch](PyTorch/)
+  * [How to install PyTorch supporting GPU in Conda](PyTorch/config.md)
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
   * [How to reshape or add additional dimention -- unsqueeze()](PyTorch/reshape.md)
   * [Transpose a matrix](PyTorch/transpose.md)
