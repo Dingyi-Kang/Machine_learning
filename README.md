@@ -50,4 +50,4 @@
   
 - [Remote Server](server/)
   * [Anaconda](server/conda.md)
-  * [Mutex](server/mutex.md)
+  * [Tmux](server/mutex.md)
