@@ -38,6 +38,7 @@
 - [Reinforcement Learning](RL/)
   * [What is RL](RL/whatIsRL.md)
   * [Value-based vs policy-based](RL/valueVsPloicy.md)
+  * [Actor-Critic method -- the combination of the both value-based and policy based](RL/actor-critic.md)
   * [Policy: deterministic vs. stochastic](RL/differentPolicy.md)
   * [DPG and DDPG](RL/DPG_DDPG.md)
   * [Continuous action domains/space](RL/continuousActions.md)
