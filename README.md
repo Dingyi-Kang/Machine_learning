@@ -19,7 +19,7 @@
   * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
 - [Matrix Derivative and Backpropagation](mathDeriv/)
-  * [Matrix derivative of linear combination layer and activation "layer"]
+  * [Matrix derivative of linear combination layer and activation "layer"](mathDeriv/matrixDerivative.md)
   * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
   * [Derivative of sigmoid and tanh](mathDeriv/tanh.md)
 - [Neural Networks](neuralNetworks/)
