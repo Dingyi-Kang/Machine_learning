@@ -18,7 +18,8 @@
   * [Regularized Least Squares, aka. Regulaeized Linear Regression](linearReg/regulaized.md)
   * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
-- [Derivative and backpropagation](mathDeriv/)
+- [Matrix Derivative and Backpropagation](mathDeriv/)
+  * [Matrix derivative of linear combination layer and activation "layer"]
   * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
   * [Derivative of sigmoid and tanh](mathDeriv/tanh.md)
 - [Neural Networks](neuralNetworks/)
