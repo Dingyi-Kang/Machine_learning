@@ -20,7 +20,7 @@
   * [Regularized Least Squares, aka. Regulaeized Linear Regression](linearReg/regulaized.md)
   * [Bias-Variance Tradeoff](linearReg/bias-variance.md)
   * [Bayesian Model Comparison/Selection](linearReg/bayesian.md)
-- [Matrix Derivative and Backpropagation](mathDeriv/)
+- [Matrix Calculus, Derivative and Backpropagation](mathDeriv/)
   * [Matrix derivative of linear combination layer and activation "layer"](mathDeriv/matrixDerivative.md)
   * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
   * [Derivative of sigmoid and tanh](mathDeriv/tanh.md)
@@ -38,6 +38,8 @@
   * [Build RNN from scratch with pyTorh nn and optim](RNN/scracthPytorch.md)
   * [Gradient Clipping](RNN/gradientClipping.md)
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
+  * [Back propagate the gradients](RNN/backPropagation.md)
+  * [Back truncate]
 - [Reinforcement Learning](RL/)
   * [What is RL](RL/whatIsRL.md)
   * [Policy: deterministic vs. stochastic](RL/differentPolicy.md)
