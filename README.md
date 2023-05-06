@@ -24,6 +24,7 @@
   * [Matrix derivative of linear combination layer and activation "layer"](mathDeriv/matrixDerivative.md)
   * [Derivative of cross entropy and softmax](mathDeriv/crossE.md)
   * [Derivative of sigmoid and tanh](mathDeriv/tanh.md)
+  * [Derivative of Mean Absolute Error](mathDeriv/MAE.md)
 - [Neural Networks](neuralNetworks/)
   * [Chain rule](neuralNetworks/ChainRule.md)
   * [Excellent tutorial of Gradient Descent](neuralNetworks/GradientDescent.md)
