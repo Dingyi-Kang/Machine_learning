@@ -50,7 +50,7 @@
   * [Actor-Critic method -- the combination of the both value-based and policy based](RL/actor-critic.md)
   * [Proximal Policy Optimization -- PPO](RL/PPO.md)
   * [Algorithm can be used for just discrete action, continuous actions, and both](RL/table.md)
-  * [Types of OpenAI Gym Spaces](RL/spaces.md)
+  * [Types of OpenAI Gym Spaces](RL/space.md)
   * [Great intro tutorial to RL -- clearly explained different notions of OpenAI gym](RL/valueBased.md)
 - [PyTorch](PyTorch/)
   * [How to install PyTorch supporting GPU in Conda](PyTorch/config.md)
