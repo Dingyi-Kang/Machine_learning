@@ -51,6 +51,7 @@
   * [Proximal Policy Optimization -- PPO](RL/PPO.md)
   * [Algorithm can be used for just discrete action, continuous actions, and both](RL/table.md)
   * [Types of OpenAI Gym Spaces](RL/spaces.md)
+  * [Great tutorial on value-based RL application](RL/valueBased.md)
 - [PyTorch](PyTorch/)
   * [How to install PyTorch supporting GPU in Conda](PyTorch/config.md)
   * [Excellent tutorials on writing backpropobation code in different customed level using Pytorch](PyTorch/backPro.md)
