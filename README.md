@@ -64,7 +64,7 @@
 - [Tensor Flow](tf/)
   * [Link to Standfor CS20 Deep Learning with Tensorflow course](http://web.stanford.edu/class/cs20si/syllabus.html)
   * [Graph and session](tf/graphSession.md)
-  * [Constant, variable and placeholder](tf/)
+  * [Constant, variable, operation and placeholder](tf/basic.md)
 - [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
