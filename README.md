@@ -42,6 +42,8 @@
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
   * [Back propagate the gradients](RNN/backPropagation.md)
   * [Back truncate]
+- [CNN](CNN/)
+  * [Apply same CNN to a sequential data -- TimeDistributed layer](CNN/timeDistributed.md)
 - [Reinforcement Learning](RL/)
   * [What is RL](RL/whatIsRL.md)
   * [Policy: deterministic vs. stochastic](RL/differentPolicy.md)
