@@ -74,6 +74,7 @@
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
   * [Element-by-element multiplication (Hamilton product) is different from dot product](Numpy/hamilton.md)
+  * [zip](Numpy/zip.md)
   
 - [Remote Server](server/)
   * [Anaconda](server/conda.md)
