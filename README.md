@@ -35,6 +35,7 @@
   * [Review 2](review2.md)
 - [Deep Learning](DL/)
   * [Transformer](DL/transformer.md)
+  * [OOM Issue](DL/OOM.md)
 - [RNN](RNN/)
   * [Build RNN from scratch with numpy](RNN/scracthNumpy.md)
   * [Build RNN from scratch with pyTorh nn and optim](RNN/scracthPytorch.md)
