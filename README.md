@@ -43,6 +43,7 @@
   * [Build LSTM cell from scratch with pytorch](RNN/lstmCell.md)
   * [Back propagate the gradients](RNN/backPropagation.md)
   * [Back truncate]
+  * [LSTM -- clearly explained](https://www.youtube.com/watch?v=YCzL96nL7j0)
 - [CNN](CNN/)
   * [Apply same CNN to a sequential data -- TimeDistributed layer](CNN/timeDistributed.md)
 - [Natural Language Processing](NLP/)
