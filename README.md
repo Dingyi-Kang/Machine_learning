@@ -9,6 +9,7 @@
   * [Linear Classifier](basic/classifier.md)
   * [How to get matrix inverse] (basic/inverseMatrix)
   * [What is batch vs epoch and the trade-off when choosing size of batch size](basic/batch.md)
+  * [Cosine similarity](basic/cosineSimilarity.md)
 - [Feature Engineering](feature/)
   * [Why normalize/standarlize predict feature can be important as well when loss function is MAS (espeically for RNN)](feature/standarlize.md)
 - [Linear Regression](linearReg/)
