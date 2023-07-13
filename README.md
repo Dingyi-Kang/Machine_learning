@@ -50,6 +50,7 @@
 - [Natural Language Processing](NLP/)
   * [Word embedding](NLP/wordEmbedding.md)
   * [Sequence to sequence -- multiple LSTM cells, Stacked LSTM, context vector, encoder, decoder, tearching forcing](NLP/seq2Seq.md)
+  * [Attention](NLP/attention.md)
 - [Reinforcement Learning](RL/)
   * [What is RL](RL/whatIsRL.md)
   * [Policy: deterministic vs. stochastic](RL/differentPolicy.md)
