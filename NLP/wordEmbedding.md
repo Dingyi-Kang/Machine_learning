@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=viZrOnJclY0
 
+(Another good tutorial: https://www.youtube.com/watch?v=lEzzgLh_SFA&list=WL&index=20)
+
 <img width="1252" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/8bb9a859-3b39-434e-8320-4e788cfd7fbc">
 
 <img width="695" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/5d701cca-1001-41fa-8658-68ad2624d794">
