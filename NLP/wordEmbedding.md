@@ -2,11 +2,15 @@ https://www.youtube.com/watch?v=viZrOnJclY0
 
 (Another good tutorial: https://www.youtube.com/watch?v=lEzzgLh_SFA&list=WL&index=20)
 
+# Summary: instead hardcoding one hot vector, we aim to learn the semantic vectors of each word in the semantic space. This semantic space can be generalized to other fields as well. In other words, the similar words, like 'good' and 'great', will have similar semantic vecotrs in the semantic space provided by the trained word embedding model.
+
 <img width="1252" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/8bb9a859-3b39-434e-8320-4e788cfd7fbc">
 
 <img width="695" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/5d701cca-1001-41fa-8658-68ad2624d794">
 
 <img width="1076" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/a1bc865d-98b3-4cb6-8951-ffcbe3791406">
+
+# namely, the number of basises of the semantic space
 
 <img width="1634" alt="image" src="https://github.com/Dingyi-Kang/Machine_learning/assets/81428296/1cf208a1-117e-43e6-a1bd-ae430119b729">
 
