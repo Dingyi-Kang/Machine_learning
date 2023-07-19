@@ -49,6 +49,7 @@
   * [Apply same CNN to a sequential data -- TimeDistributed layer](CNN/timeDistributed.md)
 - [Natural Language Processing](NLP/)
   * [Word embedding](NLP/wordEmbedding.md)
+  * [Another good tutorial using concrete examples explain word2Vec/word embedding](https://www.youtube.com/watch?v=hQwFeIupNP0)
   * [Sequence to sequence -- multiple LSTM cells, Stacked LSTM, context vector, encoder, decoder, tearching forcing](NLP/seq2Seq.md)
   * [Attention](NLP/attention.md)
 - [Reinforcement Learning](RL/)
