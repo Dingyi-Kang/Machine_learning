@@ -77,6 +77,8 @@
   * [Graph and session](tf/graphSession.md)
   * [Constant, variable, operation and placeholder](tf/basic.md)
   * [tf.function](tf/tfFunction.md)
+  * [TensorFlow Tutorial](https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
+  * [Deep Learning with TensorFlow Tutorial with more application practice](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
