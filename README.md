@@ -83,6 +83,7 @@
   * [TensorFlow Tutorial](https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
   * [Tutorial1: Basic: tensor, oprations, indexing, reshaping](tf/tutorial_basic.md)
   * [![Youtube Link][logo]](https://youtu.be/pAhPiF3yiXI) &nbsp; [Tutorial 2 - Sequential vs functional model, sparseCategoryCrossEntropy](tf/models.md)
+  * [![Youtube Link][logo]](https://www.youtube.com/watch?v=WAciKiDP2bo&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=4) &nbsp; [Tutorial 3 - CNN using Sequential and functional model -- using BatchNormalization](tf/CNN.md)
   * [Deep Learning with TensorFlow Tutorial with more application practice](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
  
 - [Python and Numpy](Numpy/)
