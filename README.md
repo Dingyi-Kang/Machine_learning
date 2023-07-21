@@ -1,3 +1,6 @@
+[logo]: https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/others/logo/youtube_logo.png
+
+
 # Machine_learning
 
 - [Basic](basic/)
@@ -79,7 +82,9 @@
   * [tf.function](tf/tfFunction.md)
   * [TensorFlow Tutorial](https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
   * [Tutorial1: Basic: tensor, oprations, indexing, reshaping](tf/tutorial_basic.md)
+  * [![Youtube Link][logo]](https://youtu.be/pAhPiF3yiXI) &nbsp; [Tutorial 2 - Sequential vs functional model, sparseCategoryCrossEntropy](tf/models.md)
   * [Deep Learning with TensorFlow Tutorial with more application practice](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+ 
 - [Python and Numpy](Numpy/)
   * [asmatrix](Numpy/asmatrix.md)
   * [Advanced indexing in numpy](Numpy/indexing.md)
