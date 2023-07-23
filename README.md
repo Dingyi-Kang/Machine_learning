@@ -86,7 +86,8 @@
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=WAciKiDP2bo&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=4) &nbsp; [Tutorial 3 - CNN using Sequential and functional model -- using BatchNormalization](tf/CNN.md)
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=kJSUq1PLmWg&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=5) &nbsp; [Tutorial 4 - Regularization-- L2, dropout, and BatchNormalization](tf/regularization1.md) 
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=Ogvd787uJO8&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=6) &nbsp; [Tutorial 5 - Using RNN and bidirectionLSTM in vision](tf/RNN.md)
-  * [![Youtube Link][logo]](https://www.youtube.com/watch?v=gRRGr_tJnAA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=7) &nbsp; [Tutorial 6 - A bi-labels example using functional model](tf/functionalModel.md) 
+  * [![Youtube Link][logo]](https://www.youtube.com/watch?v=gRRGr_tJnAA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=7) &nbsp; [Tutorial 6 - A bi-labels example using functional model](tf/functionalModel.md)
+  * [![Youtube Link][logo]](https://www.youtube.com/watch?v=WcZ_1IAH_nM&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=8) &nbsp; [Tutorial 7 -The power of model subclass -- implementing a ResNet-like network](tf/subclassModel.md)
   * [Deep Learning with TensorFlow Tutorial with more application practice](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
  
 - [Python and Numpy](Numpy/)
