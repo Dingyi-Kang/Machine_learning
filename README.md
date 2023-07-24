@@ -89,6 +89,7 @@
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=gRRGr_tJnAA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=7) &nbsp; [Tutorial 6 - A bi-labels example using functional model](tf/functionalModel.md)
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=WcZ_1IAH_nM&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=8) &nbsp; [Tutorial 7 -The power of model subclass -- implementing a ResNet-like network](tf/subclassModel.md)
   * [![Youtube Link][logo]](https://www.youtube.com/watch?v=cKMJDkWSDnY&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=9) &nbsp; [Tutorial 8 - build custom layers](tf/customLayers.md)
+  * [![Youtube Link][logo]](https://www.youtube.com/watch?v=idus3KO6Wic&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=10) &nbsp; [Tutorial 9 - save and load weights vs save and load entire model](tf/saveLoad.md)
   
   * [Deep Learning with TensorFlow Tutorial with more application practice](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
  
